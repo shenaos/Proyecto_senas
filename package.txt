@@ -1,0 +1,3 @@
+rm -rf /home/adminuser/venv
+python3 -m venv /home/adminuser/venv
+source /home/adminuser/venv/bin/activate
