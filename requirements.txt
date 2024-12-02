@@ -5,5 +5,5 @@ opencv-python==4.10.0.84
 opencv-contrib-python==4.10.0.84
 mediapipe==0.10.18
 streamlit==1.40.2
-msvc_runtime
+#msvc_runtime
 scikit-learn==1.5.2
