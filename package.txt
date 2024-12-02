@@ -1,7 +1,7 @@
 apt-get libgl1-mesa-glx
 apt-get install v4l-utils
+usermod -a -G video $USER
 rm -rf /home/adminuser/venv
 python3 -m venv /home/adminuser/venv
 source /home/adminuser/venv/bin/activate
 
-ls /dev/video*
